@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+}
+
+.container {
+  padding-top:50px;
+  max-width: 968px;
+}
+
+.course {
+	width: 100%;
+}
+
+.course-title {
+	color: #0AAFC4;
+}
+
+.course-list {
+   display: -webkit-flex;
+   display: flex;
+   -webkit-flex-direction: row;
+   flex-direction: column;
+   align-content: stretch;
+}
+
+.course-list span{
+   flex: 1;
+}

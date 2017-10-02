@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Level up your programming skills",
+    "url": "http://exercism.io",
+    "description": "Crowd-sourced code reviews on practice problems",
+    "level": ["beginner", "intermediate"],
+    "tag": ["algorithm", "challenge"]
+  },
+  {
+    "id": 2,
+    "title": "A game for learning CSS flexbox",
+    "url": "http://flexboxfroggy.com",
+    "description": "Flexbox Froggy takes inspiration from the classic arcade game Frogger, and web literacy games like the brilliant CSS Diner and Erase All Kittens, where you learn about CSS selectors and HTML markup respectively.",
+    "level": "beginner",
+    "tag": ["css", "game"]
+  },
+  {
+    "id": 3,
+    "title": "A game for learning CSS grid layout",
+    "url": "http://cssgridgarden.com",
+    "description": "Grid Garden is a game for learning CSS grid layout.",
+    "level": "beginner",
+    "tag": ["css", "game"]
+  },
+  {
+    "id": 4,
+    "title": "Learn to Code HTML & CSS, Develop & Style Websites",
+    "url": "https://learn.shayhowe.com/html-css",
+    "description": "Learn to Code HTML & CSS is a simple and comprehensive guide dedicated to helping beginners learn HTML and CSS. Outlining the fundamentals, this guide works through all common elements of front-end design and development.",
+    "level": "beginner",
+    "tag": ["html", "css"]
+  },
+  {
+    "id": 5,
+    "title": "Learn to Code Advanced HTML & CSS, Develop & Style Websites",
+    "url": "https://learn.shayhowe.com/advanced-html-css",
+    "description": "Learn to Code Advanced HTML & CSS takes a deeper look at front-end design and development, expanding on what is covered in the beginner’s guide. Studying modern front-end development, this guide teaches the latest for any designer looking to round out their front-end skills.",
+    "level": "beginner",
+    "tag": ["html", "css"]
+  },
+  {
+    "id": 6,
+    "title": "A free visual guide to CSS",
+    "url": "http://cssreference.io",
+    "description": "Learn by example: cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.",
+    "level": "beginner",
+    "tag": ["help", "css"]
+  },
+  {
+    "id": 7,
+    "title": "A free guide to HTML",
+    "url": "http://htmlreference.io",
+    "description": "Learn by example: htmlreference.io is a free guide to HTML. It features all elements and attributes.",
+    "level": "beginner",
+    "tag": ["help", "html"]
+  },
+  {
+    "id": 8,
+    "title": "CSS Diner",
+    "url": "http://flukeout.github.io",
+    "description": "Css learning platforme",
+    "level": "beginner",
+    "tag": ["css", "game"]
+  },
+  {
+    "id": 9,
+    "title": "javascript the right way",
+    "url": "http://jstherightway.org",
+    "description": "This is a guide intended to introduce new developers to JavaScript and help experienced developers learn more about its best practices.",
+    "level": "intermediate",
+    "tag": ["javascript"]
+  },
+  {
+    "id": 10,
+    "title": "Object-Oriented JavaScript",
+    "url": "https://www.udacity.com/course/object-oriented-javascript--ud015",
+    "description": "Have you been dabbling with JavaScript but find your files keep turning into a mess of spaghetti code? Do you find yourself copying and pasting lines of code over and over throughout your application? Surely there’s a better way, right?",
+    "level": "intermediate",
+    "tag": ["javascript"]
+  },
+  {
+    "id": 11,
+    "title": "30 Day Vanilla JS Coding Challenge",
+    "url": "https://javascript30.com",
+    "description": "",
+    "level": "beginner",
+    "tag": ["javascript", "challenge"]
+  },
+  {
+    "id": 12,
+    "title": "JavaScript Garden",
+    "url": "http://bonsaiden.github.io/JavaScript-Garden",
+    "description": "JavaScript Garden is a growing collection of documentation about the most quirky parts of the JavaScript programming language. It gives advice to avoid common mistakes and subtle bugs, as well as performance issues and bad practices, that non-expert JavaScript programmers may encounter on their endeavours into the depths of the language.",
+    "level": "beginner",
+    "tag": ["javascript"]
+  },
+  {
+    "id": 13,
+    "title": "You Don't Know JS (book series)",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.",
+    "level": "intermediate",
+    "tag": ["javascript"]
+  },
+  {
+    "id": 14,
+    "title": "Rithm School Free Courses",
+    "url": "https://www.rithmschool.com/courses",
+    "description": "Looking to learn some web development skills on your own? We love that. Our team has created these resources to guide you through a handful of computer programming topics",
+    "level": "beginner",
+    "tag": ["javascript", "html", "css", "devtools"]
+  },
+  {
+    "id": 15,
+    "title": "",
+    "url": "http://terminal.jcubic.pl/",
+    "description": "",
+    "level": "beginner",
+    "tag": ["javascript", "game"]
+  }
+]
